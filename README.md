@@ -1,2 +1,17 @@
-# CS-Study
-NEXTERS 21th CS Study
+## NEXTERS 21기 CS 스터디💻
+
+### 참여자
+
+|기수|이름|
+|:--------:|:--------:|
+|**20기**|최담|
+|**20기**|최동규|
+|**20기**|한상진|
+|**21기**|이가연|
+|**21기**|양호준|
+|**21기**|윤지영|
+|**21기**|최상록|
+
+<br>
+
+### 스터디 참고자료[[Link📑](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)]
